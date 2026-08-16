@@ -1,0 +1,98 @@
+=================================
+   LINUX SERVER HEALTH MONITOR
+=================================
+Hostname:
+RADHAKRISHNAN
+System Uptime:
+up 1 hour, 12 minutes
+
+
+
+
+Top Processes:
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+uniquer+    4751 13.5  9.6 12294420 658116 ?     Sl   20:13   7:42 /snap/firefox/8736/usr/lib/firefox/firefox --new-window
+uniquer+    5401 11.7 13.7 3670204 938660 ?      Sl   20:13   6:37 /snap/firefox/8736/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:49904 -prefMapHandle 1:291123 -jsInitHandle 2:156236 -parentBuildID 20260804012658 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {dd6ff28f-0e24-4cf0-85e5-4e499504f9c9} -parentPid 4751 -crashHelperPid 4995 -crashHelper 6 -crashReporter 7 -greomni /snap/firefox/8736/usr/lib/firefox/omni.ja -appomni /snap/firefox/8736/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/8736/usr/lib/firefox/browser 7 tab
+uniquer+    3756  9.6  6.3 5455376 431484 ?      Rsl  20:12   5:31 /usr/bin/gnome-shell
+uniquer+    5544  8.4  9.8 3707124 669252 ?      Sl   20:13   4:44 /snap/firefox/8736/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:49958 -prefMapHandle 1:291123 -jsInitHandle 2:156236 -parentBuildID 20260804012658 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {92695171-a0c7-41df-be71-b520d0618f71} -parentPid 4751 -crashHelperPid 4995 -crashHelper 6 -crashReporter 7 -greomni /snap/firefox/8736/usr/lib/firefox/omni.ja -appomni /snap/firefox/8736/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/8736/usr/lib/firefox/browser 10 tab
+uniquer+    3511  1.9  1.8 290040 124824 ?       S<Lsl 20:12   1:05 /usr/bin/pipewire-pulse
+=================================
+=================================
+==========================================
+       LINUX SERVER HEALTH MONITOR
+==========================================
+
+Date          : 2026-08-16 21:10:02
+Hostname      : RADHAKRISHNAN
+System Uptime : up 1 hour, 12 minutes
+CPU Usage     : 15.6%
+Memory Usage  : 65%
+Disk Usage    : 82%
+Network Status: ONLINE
+Health Status : CRITICAL
+
+Top Processes:
+------------------------------------------
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+uniquer+   12093  200  0.0  12740  4736 ?        R    21:10   0:00 ps aux --sort=-%cpu
+uniquer+    4751 13.5  9.6 12294420 658116 ?     Sl   20:13   7:42 /snap/firefox/8736/usr/lib/firefox/firefox --new-window
+uniquer+    5401 11.7 13.7 3670204 939148 ?      Sl   20:13   6:37 /snap/firefox/8736/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:49904 -prefMapHandle 1:291123 -jsInitHandle 2:156236 -parentBuildID 20260804012658 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {dd6ff28f-0e24-4cf0-85e5-4e499504f9c9} -parentPid 4751 -crashHelperPid 4995 -crashHelper 6 -crashReporter 7 -greomni /snap/firefox/8736/usr/lib/firefox/omni.ja -appomni /snap/firefox/8736/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/8736/usr/lib/firefox/browser 7 tab
+uniquer+    3756  9.6  6.3 5455376 431484 ?      Ssl  20:12   5:31 /usr/bin/gnome-shell
+uniquer+    5544  8.4  9.8 3707124 669264 ?      Rl   20:13   4:44 /snap/firefox/8736/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:49958 -prefMapHandle 1:291123 -jsInitHandle 2:156236 -parentBuildID 20260804012658 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {92695171-a0c7-41df-be71-b520d0618f71} -parentPid 4751 -crashHelperPid 4995 -crashHelper 6 -crashReporter 7 -greomni /snap/firefox/8736/usr/lib/firefox/omni.ja -appomni /snap/firefox/8736/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/8736/usr/lib/firefox/browser 10 tab
+
+==========================================
+
+Report saved to:
+/home/uniqueradha/linux-sever/reports/system-report.txt
+
+Log saved to:
+/home/uniqueradha/linux-sever/logs/system.log
+=================================
+   LINUX SERVER HEALTH MONITOR
+=================================
+Hostname:
+RADHAKRISHNAN
+System Uptime:
+up 1 hour, 13 minutes
+
+
+
+
+Top Processes:
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+uniquer+    4751 13.5  9.6 12292340 658308 ?     Sl   20:13   7:47 /snap/firefox/8736/usr/lib/firefox/firefox --new-window
+uniquer+    5401 11.6 13.7 3671228 938300 ?      Sl   20:13   6:41 /snap/firefox/8736/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:49904 -prefMapHandle 1:291123 -jsInitHandle 2:156236 -parentBuildID 20260804012658 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {dd6ff28f-0e24-4cf0-85e5-4e499504f9c9} -parentPid 4751 -crashHelperPid 4995 -crashHelper 6 -crashReporter 7 -greomni /snap/firefox/8736/usr/lib/firefox/omni.ja -appomni /snap/firefox/8736/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/8736/usr/lib/firefox/browser 7 tab
+uniquer+    3756  9.7  6.3 5453328 432304 ?      Ssl  20:12   5:40 /usr/bin/gnome-shell
+uniquer+    5544  8.3  9.7 3707124 667060 ?      Sl   20:13   4:49 /snap/firefox/8736/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:49958 -prefMapHandle 1:291123 -jsInitHandle 2:156236 -parentBuildID 20260804012658 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {92695171-a0c7-41df-be71-b520d0618f71} -parentPid 4751 -crashHelperPid 4995 -crashHelper 6 -crashReporter 7 -greomni /snap/firefox/8736/usr/lib/firefox/omni.ja -appomni /snap/firefox/8736/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/8736/usr/lib/firefox/browser 10 tab
+uniquer+    3511  1.9  1.8 290040 124824 ?       S<Lsl 20:12   1:06 /usr/bin/pipewire-pulse
+=================================
+=================================
+==========================================
+       LINUX SERVER HEALTH MONITOR
+==========================================
+
+Date          : 2026-08-16 21:11:01
+Hostname      : RADHAKRISHNAN
+System Uptime : up 1 hour, 13 minutes
+CPU Usage     : 2.2%
+Memory Usage  : 65%
+Disk Usage    : 82%
+Network Status: ONLINE
+Health Status : CRITICAL
+
+Top Processes:
+------------------------------------------
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+uniquer+    4751 13.5  9.6 12292340 658308 ?     Sl   20:13   7:47 /snap/firefox/8736/usr/lib/firefox/firefox --new-window
+uniquer+    5401 11.6 13.7 3671228 938300 ?      Sl   20:13   6:41 /snap/firefox/8736/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:49904 -prefMapHandle 1:291123 -jsInitHandle 2:156236 -parentBuildID 20260804012658 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {dd6ff28f-0e24-4cf0-85e5-4e499504f9c9} -parentPid 4751 -crashHelperPid 4995 -crashHelper 6 -crashReporter 7 -greomni /snap/firefox/8736/usr/lib/firefox/omni.ja -appomni /snap/firefox/8736/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/8736/usr/lib/firefox/browser 7 tab
+uniquer+    3756  9.7  6.3 5453328 432304 ?      Ssl  20:12   5:40 /usr/bin/gnome-shell
+uniquer+    5544  8.3  9.7 3707124 667060 ?      Sl   20:13   4:49 /snap/firefox/8736/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:49958 -prefMapHandle 1:291123 -jsInitHandle 2:156236 -parentBuildID 20260804012658 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {92695171-a0c7-41df-be71-b520d0618f71} -parentPid 4751 -crashHelperPid 4995 -crashHelper 6 -crashReporter 7 -greomni /snap/firefox/8736/usr/lib/firefox/omni.ja -appomni /snap/firefox/8736/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/8736/usr/lib/firefox/browser 10 tab
+uniquer+    3511  1.9  1.8 290040 124824 ?       S<Lsl 20:12   1:06 /usr/bin/pipewire-pulse
+
+==========================================
+
+Report saved to:
+/home/uniqueradha/linux-sever/reports/system-report.txt
+
+Log saved to:
+/home/uniqueradha/linux-sever/logs/system.log

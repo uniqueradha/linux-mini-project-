@@ -1,0 +1,40 @@
+==========================================
+       LINUX SERVER HEALTH REPORT
+==========================================
+
+Date          : 2026-08-16 21:11:01
+Hostname      : RADHAKRISHNAN
+System Uptime : up 1 hour, 13 minutes
+
+------------------------------------------
+RESOURCE USAGE
+------------------------------------------
+
+CPU Usage     : 2.2%
+Memory Usage  : 65%
+Disk Usage    : 82%
+
+------------------------------------------
+NETWORK STATUS
+------------------------------------------
+
+Network       : ONLINE
+
+------------------------------------------
+HEALTH STATUS
+------------------------------------------
+
+System Health : CRITICAL
+
+------------------------------------------
+TOP PROCESSES
+------------------------------------------
+
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+uniquer+   12333  200  0.0  12740  4716 ?        R    21:11   0:00 ps aux --sort=-%cpu
+uniquer+    4751 13.5  9.6 12292340 658308 ?     Sl   20:13   7:47 /snap/firefox/8736/usr/lib/firefox/firefox --new-window
+uniquer+    5401 11.6 13.7 3671228 938300 ?      Sl   20:13   6:41 /snap/firefox/8736/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:49904 -prefMapHandle 1:291123 -jsInitHandle 2:156236 -parentBuildID 20260804012658 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {dd6ff28f-0e24-4cf0-85e5-4e499504f9c9} -parentPid 4751 -crashHelperPid 4995 -crashHelper 6 -crashReporter 7 -greomni /snap/firefox/8736/usr/lib/firefox/omni.ja -appomni /snap/firefox/8736/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/8736/usr/lib/firefox/browser 7 tab
+uniquer+    3756  9.7  6.3 5453328 432304 ?      Ssl  20:12   5:40 /usr/bin/gnome-shell
+uniquer+    5544  8.3  9.7 3707124 667060 ?      Sl   20:13   4:49 /snap/firefox/8736/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:49958 -prefMapHandle 1:291123 -jsInitHandle 2:156236 -parentBuildID 20260804012658 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {92695171-a0c7-41df-be71-b520d0618f71} -parentPid 4751 -crashHelperPid 4995 -crashHelper 6 -crashReporter 7 -greomni /snap/firefox/8736/usr/lib/firefox/omni.ja -appomni /snap/firefox/8736/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/8736/usr/lib/firefox/browser 10 tab
+
+==========================================
